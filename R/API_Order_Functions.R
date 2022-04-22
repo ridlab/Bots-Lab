@@ -1,4 +1,4 @@
-# PACKAGE INSTALLER FUNCTION ##
+# PACKAGE INSTALLER FUNCTIONS ##
 
 pkgLoad <- function( packages = "for_bots" ) {
   
@@ -28,6 +28,8 @@ pkgLoad <- function( packages = "for_bots" ) {
   }
   
 }
+
+pkgload()
 
 ## API Keys - BINANCE AND BOTS ##
 
